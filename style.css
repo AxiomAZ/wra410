@@ -1,6 +1,7 @@
 body {
-    background-color: #EEE;
-    font-family: 'Sarabun',Helvetica, Arial, sans-serif;
+    background-color: #314761;
+
+    font-family: 'Raleway', sans-serif;
 }
 
 a {
@@ -50,6 +51,8 @@ h1, h2, h3  {
 #main {
   width: 750px;
   float: right;
+  background-color:#666577 ;
+  color: white;
 
 }
 
