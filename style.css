@@ -15,10 +15,8 @@ h1, h2, h3  {
   color: #18453B;
 }
 img{
-  display: block;
   height: 15%;
   width: auto;
-  margin-left: auto;
   position: static;
 }
 
