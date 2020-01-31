@@ -60,6 +60,8 @@ h1, h2, h3  {
 
 #main {
   width: 750px;
+  padding-left: 20px;
+  padding - top: 20px;
   float: right;
   background-color:#666577 ;
   color: white;
