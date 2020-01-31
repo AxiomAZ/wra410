@@ -6,7 +6,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #B23333;
+  color: #60eee9;
 }
 
 h1, h2, h3  {
@@ -15,37 +15,47 @@ h1, h2, h3  {
 }
 
 #container {
-    background-color: white;
+    background-color: #18453B;
     width: 1000px;
     margin-left: auto;
     margin-right:auto;
 }
 
 #header {
-    background-color: #18453B;
-    color: white;
+    background-color: white;
+    color: #18453B;
     text-align: center;
     padding: 10px;
 }
 
 #content {
   padding: 10px;
+  background-color: #18453B;
+  color: white;
+
 }
 
 #nav {
   width: 150px;
   float: left;
   padding: 20px;
+  background-color: #18453B;
+  color: white;
+
 }
 
 #nav ul {
   list-style-type: none;
   padding: 0;
+  color: white;
+
 }
 
 
 #nav .selected {
   font-weight: bold;
+  color: white;
+
 }
 
 #main {
