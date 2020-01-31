@@ -6,12 +6,20 @@ body {
 
 a {
   text-decoration: none;
-  color: #60eee9;
+  color: #5199d5;
 }
 
 h1, h2, h3  {
   margin: 0;
   padding: 10px;
+  color: #18453B;
+}
+img{
+  display: block;
+  height: 15%;
+  width: auto;
+  margin-left: auto;
+  position: static;
 }
 
 #container {
@@ -73,8 +81,8 @@ h1, h2, h3  {
   margin: 20px;
   border: 20px;
   padding: 10px;
-  background-color:  #d3d3d3;
-  color: black;
+  background-color:  #49535a;
+  color: white;
   text-align: left;
 }
 
@@ -86,11 +94,13 @@ h1, h2, h3  {
   text-align: right;
 }
 .schedule-date {
+  background-color: #314761;
   font-weight: bold;
   color: black;
   text-align: right;
 }
 .schedule-resources {
+  background-color: #314761;
   font-weight: lighter;
   color: black;
   text-align: left;
