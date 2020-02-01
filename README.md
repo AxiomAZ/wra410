@@ -1,34 +1,17 @@
-# Assignment: One HTML and CSS
+# Assignment 1 Checklist
 
-For this assignment, you will clone Dr. John Monberg's wra410 repository.
+## Things I did:
 
-You will update your README.md file so that I can learn about the changes you made.
+* Changed background colors, font color scheme, color of links on all pages.
+* Changed font to Raleway (looked nice and simplistic without changing the look too much)
+* Included 2 images, one at the top of page and one at the bottom.
+* Used table to format Grading Scale (Line in between not showing up, but it is a table in the html and CSS.
+* Changed colors of boxes around student groups, spaced out names and made letters bold.
+* Added Navigation to pages missing it, added groups tab under navigation for all pages
 
-If I can't find your changes, I can't give you credit for them
+## Things I need to do:
 
-Revise the following section in your README.md file with a short description of what you've accomplished.
+* Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
 
-## Required Changes to WRA 410
+## Things that went undone:
 
-1. Make changes to the background color of a page and a div.
-
-2. Use a new font.
-
-3. Include two images.
-
-4. Use a table to format the Grading Scale on the Assignments page.
-
-5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs.  
-
-6. Add navgation to the Schedule webpage.
-
-7. Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
-
-
-## Grading Criteria
-
-* 100-90 points: You accomplish all of the required changes and you include some new html/css commands and/or your design does an especially good job of meeting the needs of your audience (students in this course). 
-
-* 89-80 points: You accomplish all of the required changes.
-
-* 79-70 points: You don't accomplish all of the required changes
