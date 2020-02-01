@@ -1,15 +1,16 @@
 body {
     background-color: #314761;
-
     font-family: 'Raleway', sans-serif;
 }
 
 a {
+  font-family: 'Raleway', sans-serif;
   text-decoration: none;
   color: #5199d5;
 }
 
 h1, h2, h3  {
+  font-family: 'Raleway', sans-serif;
   margin: 0;
   padding: 10px;
   color: #18453B;
@@ -18,6 +19,18 @@ img{
   height: 15%;
   width: auto;
   position: static;
+}
+table {
+  font-family: 'Raleway', sans-serif;
+  border: 1px white;
+  border-collapse: collapse;
+  color: white;
+}
+
+table, th, td,{
+  font-family: 'Raleway', sans-serif;
+  color: white:
+  border: 1px solid black;
 }
 
 #container {
@@ -68,6 +81,7 @@ img{
   width: 750px;
   padding-left: 20px;
   padding - top: 20px;
+  padding-bottom: 20px;
   float: right;
   background-color:#666577 ;
   color: white;
