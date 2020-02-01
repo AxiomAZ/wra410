@@ -10,3 +10,6 @@
 ## Things I need to do:
 
 * Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
+
+## Things that went undone:
+
