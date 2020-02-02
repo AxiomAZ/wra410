@@ -14,4 +14,4 @@
 * Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
 
 ## Things that went undone:
-
+* Couldn't figure out how best to revise the schedule page, felt clear enough to me, so I just added a navigation to it and changed some of the colors. Also the text on the page never changed colors which made it complicated.
