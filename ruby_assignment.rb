@@ -38,7 +38,8 @@ puts "Ruby is, in fact, installed."
 #
 # There are lots of uses, qualities and parts associated with cars.
 #
-# 1. Create a Car Class.
+class Car
+  def initialize(company, model, year, in_production, price)
 # 2. Have at least 5 variables, with at least one string, integer and boolean type in your Car class.
 # 3. Create a method for the Car class in addition to the initialize method
 # 4. Create and dsiplay three instances of a car.
