@@ -1,5 +1,5 @@
 # Ruby Assignment
-# 
+#
 # This assignment contains all of the requirements for the Ruby Assignment.
 #
 # Download this file.
@@ -9,17 +9,16 @@ puts "Running WRA 410 Ruby Assignment"
 # Make the changes in the file you need to complete the assignment in each section of this file.
 # The assignment is worth worth up to 100 points.
 #
-# Save your file and attach it to an email sent to jmonberg@msu.edu 
+# Save your file and attach it to an email sent to jmonberg@msu.edu
 # Use "WRA 410 Ruby Assignment" as the title of your email.
 #
 # The assignment is due before class on February 19.
 #
-# When Dr. Monberg runs a copy of your ruby file, it should display all of the required elements. 
+# When Dr. Monberg runs a copy of your ruby file, it should display all of the required elements.
 #
 # Section 1 worth 20 points
-# 
-# Verify with Dr. Monberg that Ruby is installed on your computer.
 #
+puts "Ruby is, in fact, installed."
 # Section 2 worth 20 points
 #
 # 1. Create two string variables for your first name and last name.
@@ -39,7 +38,7 @@ puts "Running WRA 410 Ruby Assignment"
 #
 # There are lots of uses, qualities and parts associated with cars.
 #
-# 1. Create a Car Class. 
+# 1. Create a Car Class.
 # 2. Have at least 5 variables, with at least one string, integer and boolean type in your Car class.
 # 3. Create a method for the Car class in addition to the initialize method
 # 4. Create and dsiplay three instances of a car.
