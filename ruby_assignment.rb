@@ -21,8 +21,10 @@ puts "Running WRA 410 Ruby Assignment"
 puts "Ruby is, in fact, installed."
 # Section 2 worth 20 points
 #
-# 1. Create two string variables for your first name and last name.
-# 2. Display your name.
+firstname = 'Anthony'
+lastname = 'Zhu'
+puts firstname
+puts lastname
 # 3. Display your name with your middle name interpolated in the middle of your name output string.
 # 4. Display your name in all capitals.
 # 5. Display the number of characters in your name.
