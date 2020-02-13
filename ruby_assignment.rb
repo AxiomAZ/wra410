@@ -45,6 +45,9 @@ puts "Section 3"
 # 1. Create an array with a list of the titles of your 5 favorite cities
 city_array = Array.new(5)
 city_array = ['Tokyo', 'Shanghai', 'Seattle', 'Novi', 'East Lansing']
+puts "Array:"
+puts city_array
+puts " "
 # 2. Display the first element of the array.
 puts city_array[0]
 puts " "
