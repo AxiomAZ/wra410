@@ -85,10 +85,14 @@ puts car3.checkcar
 
 puts " "
 # Section 5 worth 20 points
-#
+puts "Section 5"
 # What is your favorite book, website, youtube series, forum, or tutorial for learning Ruby that you have
 # discovered in addition to the course materials?
+puts "Stackoverflow"
 # Display the title and link of your favorite resource.
+puts "Stackoverflow"
 # Display two sentences that explain why you found that resource useful.
-
+puts "You can usually find discussion over sollutions there for anything you need."
+puts "You can ask questions about your code there and people can give you advice."
+puts ""
 puts "WRA 410 Ruby Assignment Completed"
