@@ -74,6 +74,9 @@ class Car
       puts "This car is a #{@company} #{@model} from #{@year}. It is not in production and costs $#{@price}."
     end
   end
+  def method
+    puts self
+  end
 end
 # 4. Create and dsiplay three instances of a car.
 car1 = Car.new("Chevorolet", "Suburban", 2015, true, 25999.99 )
@@ -85,6 +88,11 @@ puts car2.checkcar
 puts car3.checkcar
 
 # 5. Call your method on all three instances.
+puts "Class Method:"
+puts car1.method
+puts car2.method
+puts car3.method
+puts " "
 
 puts " "
 # Section 5 worth 20 points
