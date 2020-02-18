@@ -93,7 +93,7 @@ puts "Section 5"
 # discovered in addition to the course materials?
 puts "Stackoverflow"
 # Display the title and link of your favorite resource.
-puts "Stackoverflow"
+puts "Stackoverflow: https://stackoverflow.com"
 # Display two sentences that explain why you found that resource useful.
 puts "You can usually find discussion over sollutions there for anything you need."
 puts "You can ask questions about your code there and people can give you advice."
